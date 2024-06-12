@@ -1,5 +1,8 @@
 class Pet:
-    pass
+
+    PET_TYPES = ['dog', 'cat', 'rodent', 'bird', 'reptile', 'exotic']
+    all = []
+
 
 class Owner:
     pass
